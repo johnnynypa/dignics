@@ -1,0 +1,15 @@
+{
+  "short_name": "Dignics",
+  "name": "Dignics - Tesoreria Adventista",
+  "icons": [
+    {
+      "src": "Logo-min.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
