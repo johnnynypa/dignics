@@ -1,12 +1,12 @@
-import React, { Component } from 'react';
+// eslint-disable-next-line
+import React from 'react';
+import { BrowserRouter, Route } from 'react-router-dom'
+import IndexPage from './components/pages/';
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-      </div>
-    );
-  }
-}
+const App = (
+  <BrowserRouter>
+    <Route path="/" component={IndexPage} />
+  </BrowserRouter>
+)
 
 export default App;
