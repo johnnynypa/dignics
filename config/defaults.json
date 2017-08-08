@@ -1,0 +1,9 @@
+{
+  "port": 8080,
+  "connectionData": { 
+    "domain": "localhost",
+    "user": "nypakun",
+    "password": "pechocha",
+    "name" : "tesoft"
+  }
+}
